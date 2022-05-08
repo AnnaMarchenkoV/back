@@ -1,0 +1,8 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+post1:
+  id: 8
+  title: 'MyString'
+  body: 'MyText'
+  tags: 'tag1'
+  user: user1
